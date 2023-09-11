@@ -2,7 +2,7 @@
 
 This project is a simple page for displaying a pizza menu for a restaurant.
 
-[Live Preview](https://pizza-menu-naveed.netlify.app/ "Visit netlify deploy"){:target="_blank"}
+[Live Preview](https://pizza-menu-naveed.netlify.app/ "Visit netlify deploy")
 
 ## Skills used
 
